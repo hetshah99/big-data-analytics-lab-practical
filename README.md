@@ -28,15 +28,15 @@
 
   c) Aggregate inputs and search records based on aggregation output
 
-Prepare a report to guide design of mapper and reducer.
+Prepare a report to guide design of mapper and reducer
 
 
-6. Analyse impact of different number of mapper and reducer on same definition as practical 3.
+6. Analyse impact of different number of mapper and reducer on same definition as practical 3
     Prepare a conclusive report on analysis.
 
-7. Implement PCY/Multi-Hash/SON algorithm for identification of frequent item set by handling larger datasets in main memory.
+7. Implement PCY/Multi-Hash/SON algorithm for identification of frequent item set by handling larger datasets in main memory
 
-8. Setup MongoDB environment in your system. Import Restaurant Dataset and perform CRUD operation.
+8. Setup MongoDB environment in your system. Import Restaurant Dataset and perform CRUD operation
 
 9. Extend MongoDB functionality for MapReduce on document collection
 
